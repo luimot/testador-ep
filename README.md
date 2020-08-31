@@ -8,6 +8,6 @@ Para utiliza-lo abra o terminal e digite:
 
 E depois,
 
-		$ ./run.sh
-
+		$ ./run.sh <Número do caso>
+`run.sh` toma como argumento somente o caso, se for Estrela de Koch, H Tree ou o fractal 
 Pronto!
